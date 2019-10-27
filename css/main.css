@@ -1,0 +1,52 @@
+body {
+	background-color: #ffecd1;
+	color: #001524;
+	font-family: Courier;
+}
+
+main {
+	padding-top: 10%;
+	margin: 0 auto;
+}
+
+.wrapper {
+	display: flex;
+	padding: 8px;
+}
+
+.contact {
+	margin: 0 auto;
+	/*text-align: center;*/
+}
+
+.contact h1 {
+	font-size: 2em;
+	margin: 0 auto;
+	padding: 0.1em 0.3em;
+}
+
+.contact h3 {
+	font-size: 1.3em;
+	text-align: center;
+	margin-top: 0px;
+}
+
+.contact p {
+	margin: 0 auto;
+	padding: 0.1em 2em;
+	line-height: 1.5em;
+}
+
+.contact a {
+	text-decoration: none;
+	color: inherit;
+}
+
+.contact a:hover {
+	text-decoration: underline;
+	cursor: pointer;
+}
+
+.contact br {
+	margin-bottom: 0.2em; 
+}
