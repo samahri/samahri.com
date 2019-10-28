@@ -1,26 +1,25 @@
 body {
-	background-color: #ffecd1;
-	color: #001524;
+	background-color: #EFE4D3;
+	color: #2E1E05;
 	font-family: Courier;
 }
 
-main {
+.wrapper {
 	padding-top: 10%;
 	margin: 0 auto;
 }
 
-.wrapper {
+.inner-wrapper {
 	display: flex;
 	padding: 8px;
 }
 
 .contact {
 	margin: 0 auto;
-	/*text-align: center;*/
 }
 
 .contact h1 {
-	font-size: 2em;
+	font-size: 32px;
 	margin: 0 auto;
 	padding: 0.1em 0.3em;
 }
@@ -45,8 +44,4 @@ main {
 .contact a:hover {
 	text-decoration: underline;
 	cursor: pointer;
-}
-
-.contact br {
-	margin-bottom: 0.2em; 
 }
