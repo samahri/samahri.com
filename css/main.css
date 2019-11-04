@@ -1,6 +1,6 @@
 body {
-	background-color: #EFE4D3;
-	color: #2E1E05;
+	background-color: #E0DBD7;
+	color: #13262F;
 	font-family: Courier;
 }
 
@@ -20,6 +20,7 @@ body {
 
 .contact h1 {
 	font-size: 32px;
+	text-align: center;
 	margin: 0 auto;
 	padding: 0.1em 0.3em;
 }
